@@ -87,11 +87,5 @@ for N in (8, 16, 32)
     unit_cube_esnice_ssit(N, 20)
 end
 
-
-for N in (32, )
-    unit_cube_esnice_ssit(N, 100)
-    # unit_cube_esnice_ssit(N, 500)
-end
-
 end # module 
 nothing
